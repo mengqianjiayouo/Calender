@@ -14,6 +14,7 @@ class App extends React.Component {
       daysArr: [],
       dataList: [],
       date: new Date()
+
     }
   }
   componentDidMount() {
